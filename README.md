@@ -7,3 +7,17 @@
 <h4 align="center">
  🚀 Todoo Project 🚀
 </h4>
+
+
+<p align="center">
+   <a href="#dart-objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#books-tópicos">Challenges implementadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-executando-o-projeto">Executando o Projeto</a>
+</p>
+
+
+## :dart: Objetivo
+
+<p>
+   Esse é um mini-projeto do bootcamp ignite da rocketseat para resolver os desafios propostos.
+</p>
