@@ -11,7 +11,7 @@
 
 <p align="center">
    <a href="#dart-objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#books-tópicos">Challenges implementadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#heavy_check_mark-challenges-implementadas">Challenges implementadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-executando-o-projeto">Executando o Projeto</a>
 </p>
 
@@ -21,3 +21,9 @@
 <p>
    Esse é um mini-projeto do bootcamp ignite da rocketseat para resolver os desafios propostos.
 </p>
+
+## :heavy_check_mark: Challenges implementadas
+
+-   [x] [handleCreateNewTask]
+-   [x] [handleToggleTaskCompletion]
+-   [x] [handleRemoveTask]
