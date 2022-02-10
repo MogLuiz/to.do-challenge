@@ -24,6 +24,6 @@
 
 ## :heavy_check_mark: Challenges implementadas
 
--   [x] [handleCreateNewTask]
--   [x] [handleToggleTaskCompletion]
--   [x] [handleRemoveTask]
+-   [x] handleCreateNewTask
+-   [x] handleToggleTaskCompletion
+-   [x] handleRemoveTask
