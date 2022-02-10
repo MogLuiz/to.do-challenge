@@ -25,11 +25,12 @@ export function TaskList() {
   function handleToggleTaskCompletion(id: string) {
     const taskIndex = tasks.findIndex((task) => task.id === id);
     tasks[taskIndex].isComplete = !tasks[taskIndex].isComplete;
-    setTasks([...tasks])
+    setTasks([...tasks]);
   }
 
   function handleRemoveTask(id: string) {
-    // Remova uma task da listagem pelo ID
+    const filteredTasks = tasks.filter((task) => task.id !== id);
+    setTasks(filteredTasks);
   }
 
   return (
