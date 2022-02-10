@@ -27,3 +27,22 @@
 -   [x] handleCreateNewTask
 -   [x] handleToggleTaskCompletion
 -   [x] handleRemoveTask
+
+
+## :rocket: Executando o Projeto
+
+To clone and run this application, you'll need [Git][git], [Node.js v14.15.0][nodejs] or higher + [Yarn v1.22][yarn] or higher installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/MogLuiz/to.do-challenge.git
+
+# Go into the repository
+$ cd to.do-challenge
+
+# Install dependencies
+$ yarn install
+
+# Run the app
+$ yarn start
+```
